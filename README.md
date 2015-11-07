@@ -1,5 +1,7 @@
 # Multibox Object Detector
 
+[![Join the chat at https://gitter.im/anguoyang/multibox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/anguoyang/multibox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository contains a reference pre-trained network for the multibox
 object detector, complementing the Google publications
 
